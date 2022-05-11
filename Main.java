@@ -21,5 +21,8 @@ public  class Main
             mul *= i;
         }
         System.out.println(mul);
+		
+		
+		//Es hat funktioniert
     }
 }
